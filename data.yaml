@@ -1,0 +1,13 @@
+# Paths to dataset files
+path: /Users/akashsingh/.cache/kagglehub/datasets/toluwaniaremu/smartcity-cctv-violence-detection-dataset-scvd/versions/3
+
+# Dataset directories for each set
+train: train/images
+val: val/images
+test: test/images
+
+# Number of classes
+nc: 2  # Adjust as needed
+
+# Class names
+names: ['Threat', 'No Threat']
